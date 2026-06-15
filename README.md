@@ -50,7 +50,7 @@ Every dashboard tells a story. This analysis demonstrates how data can be transf
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](images/dashboard.png)
+![Dashboard Screenshot](A313E5E2-2A26-4CAD-B22F-81848F610F07.jpeg)
 
 ## Tools Used
 
